@@ -1,5 +1,5 @@
 # Modified-Pygame-Shmup-Part-10-Explosions
-This Shmup (Shoot 'em up) game is a simple space-themed shooter developed using Pygame, a popular Python library for game development. The original code and tutorial for this game were provided by the "KidsCanCode" Pygame video series, specifically in part 10.
+This Shmup (Shoot 'em up) game is a simple space-themed shooter developed using Pygame, a popular Python library for game development. The original code and tutorial for this game were provided by the "KidsCanCode" Pygame video series, specifically in part 10. Link: https://kidscancode.org/blog/2016/09/pygame_shmup_part_10/  
 
 ## How to Play
 Controls:
@@ -36,7 +36,7 @@ Explosion Animation Images: Explosion
 Background Music: Christmas
 Shooting Sound Effect: Sneeze
 Explosion Sound Effects: Scream, Scream
-##Acknowledgments
+## Acknowledgments
 Special thanks to the "KidsCanCode" tutorial series for providing the foundation of this game. Visit their YouTube channel for more educational game development content.
 
 Note: The tutorial was followed for educational purposes, and modifications were made to personalize the game.
