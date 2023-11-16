@@ -28,14 +28,14 @@ Feel free to further customize the game by replacing or adding your own graphics
 ## Game Assets
 All game assets, including images and sounds, are sourced from various free and open repositories. Make sure to comply with the licensing terms of each asset if you plan to redistribute or modify the game.
 
-Background Image: Sogang University
-Player Spaceship Image: Cat
-Bullet Image: Laser Red
-Enemy Obstacle Images: Various, including Kenney.nl
-Explosion Animation Images: Explosion
-Background Music: Christmas
-Shooting Sound Effect: Sneeze
-Explosion Sound Effects: Scream, Scream
+Background Image: Sogang University<br />
+Player Spaceship Image: Cat<br />
+Bullet Image: Laser Red<br />
+Enemy Obstacle Images: Various, including Kenney.nl<br />
+Explosion Animation Images: Explosion<br />
+Background Music: Christmas<br />
+Shooting Sound Effect: Sneeze<br />
+Explosion Sound Effects: Scream, Scream<br />
 ## Acknowledgments
 Special thanks to the "KidsCanCode" tutorial series for providing the foundation of this game. Visit their YouTube channel for more educational game development content.
 
