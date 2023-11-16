@@ -19,7 +19,6 @@ The original game was modified by replacing the graphics, music, and sound effec
 
 - Background image
 - Player spaceship image
-- Bullet image
 - Enemy obstacle images
 - Background music
 - Shooting sound effect
