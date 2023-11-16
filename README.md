@@ -22,7 +22,7 @@ The original game was modified by replacing the graphics, music, and sound effec
 - Enemy obstacle images
 - Background music
 - Shooting sound effect
-Feel free to further customize the game by replacing or adding your own graphics, sounds, and music.
+<br />Feel free to further customize the game by replacing or adding your own graphics, sounds, and music.
 
 ## Game Assets
 All game assets, including images and sounds, are sourced from various free and open repositories. Make sure to comply with the licensing terms of each asset if you plan to redistribute or modify the game.
