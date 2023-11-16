@@ -1,8 +1,8 @@
 # Modified-Pygame-Shmup-Part-10-Explosions
-This Shmup (Shoot 'em up) game is a simple space-themed shooter developed using Pygame, a popular Python library for game development. The original code and tutorial for this game were provided by the "KidsCanCode" Pygame video series, specifically in part 10. Link: https://kidscancode.org/blog/2016/09/pygame_shmup_part_10/  
+This Shmup (Shoot 'em up) game is a simple space-themed shooter developed using Pygame, a popular Python library for game development. The original code and tutorial for this game were provided by the "KidsCanCode" Pygame series, specifically in part 10. Link: https://kidscancode.org/blog/2016/09/pygame_shmup_part_10/  
 
 ## How to Play
-Controls:
+### Controls:
 
 Use the left and right arrow keys to move the player spaceship horizontally.
 Press the space bar to shoot bullets and destroy incoming obstacles.
